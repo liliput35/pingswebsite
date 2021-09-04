@@ -301,6 +301,7 @@ footer p {
 
   .hero {
     text-align: center;
+    padding-top: 1em;
   }
 
   .hero .container, .about .container {
